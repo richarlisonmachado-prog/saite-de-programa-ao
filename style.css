@@ -1,11 +1,10 @@
 body {
-    background-color: rgb(251, 255, 0);
-    color: rgb(255, 0, 0);
-    font-size: 60px;
-}
-
+    background-color: rgb(26, 27, 2);
+    color: rgb(193, 13, 184);
+    font-size: 60px;    
 img {
     width: 200px;
+    opacity: 0.5;
 }
 
 .paragrafo{
@@ -18,5 +17,14 @@ img {
 }
 
 footer {
-    background-color: green;
+    background-color: rgb(36, 35, 10);
+}text-align: center;
+#videos{
+    gap: 20px;
 }
+
+img:houver{
+opacity: 1.0;
+
+}
+    
